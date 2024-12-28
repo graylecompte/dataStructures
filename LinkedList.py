@@ -1,7 +1,8 @@
 """
-Author: Gray A. LeCompte
-Created: 14 November 2017
-Description: Implements singly linked list class
+file: LinkedList.py
+author: gray a lecompte
+date: 14 november 2017
+description: implements singly linked list class
 """
 
 class listNode():

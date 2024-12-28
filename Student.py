@@ -1,3 +1,10 @@
+"""
+file: Student.py
+author: gray a lecompte
+date: 20 november 2017
+description: implements student class
+"""
+
 class Student:
     def __init__(self, id=None, name=""):
         self.__id = id

@@ -1,7 +1,8 @@
 """
-Author: Gray A. LeCompte
-Date: 20 November 2017
-Description: Implements chaining and probing hash table classes
+file: Hash.py
+author: gray a lecompte
+date: 20 november 2017
+description: implements chaining and probing hash table classes
 """
 
 from LinkedList import LinkedList
