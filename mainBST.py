@@ -5,7 +5,7 @@ date: 20 november 2017
 description: main functionality implementing binary search tree
 """
 
-from BST import BinarySearchTree
+from BinarySearchTree import BinarySearchTree
 from random import randint
 def main():
     BST = BinarySearchTree(5)

@@ -5,7 +5,7 @@ date: 20 november 2017
 description: implements chaining and probing hash table classes
 """
 
-from BST import BinarySearchTree
+from BinarySearchTree import BinarySearchTree
 
 class HashTableBST():
     """
